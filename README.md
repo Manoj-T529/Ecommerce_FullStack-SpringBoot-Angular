@@ -5,6 +5,7 @@ Project Description:
          An online Ecommerce Application to buy Products.
          
 Technologies Used:
+
           Angular 13
           HTML
           CSS
