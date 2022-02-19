@@ -26,25 +26,21 @@ An ecommerce web application
 ### User Module:
 
 * User sign up & log in. 
-* OTP send to mail in case of forgot password
-* OTP verified for password updation
+* OTP verification by mail for password updation
 * User Details updation
-* Home Page –Showing new arrivals
-* Search Page –Search product
+* Home Page – Showing new arrivals
+* Search Page – Search product
 * Product page
 * Cart Page
-* Forget Password 
 * Order Page
-* Pagination
 * Order History
 * Payment Gateway Integration
 
 ### Admin Module:
 
 * Business Chart
-* Add Products
-* Update Product
-* Order Details of every user.
+* Add, update, delete Products
+* Order Details of every user
           
 ## Getting Started
 
