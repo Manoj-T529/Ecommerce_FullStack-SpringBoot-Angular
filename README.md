@@ -50,7 +50,7 @@ An ecommerce web application
          
 ## Usage
 
-* Clone the repository. using ! Git Clone https://github.com/shreysh-mane/FacebookWeb/tree/master
+* Clone the repository. using ! Git Clone https://github.com/shreysh-mane/Ecommerce_FullStack.git
 * Open the repository in your IDE workspace.
 * And run the index.html file on server.
          
