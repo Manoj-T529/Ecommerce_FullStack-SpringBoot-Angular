@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { EcommerceUser } from './ecommerce-user';
+
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +9,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'shopper';
+  title = 'angularshop';
+  user=new EcommerceUser();
 }
